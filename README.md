@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @star-start
 - 👀 I’m a curious student,like to try everything.
 - 🌱 I’m currently learning Big Data science.
-- 📫 2212294009@qq.com 
+- 📫 email:2212294009@qq.com 
 - ✨ If you want to contact me, you can send me an email. But it's not an AD.
 
 <!---
